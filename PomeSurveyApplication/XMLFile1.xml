@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<MainMenu>
+  <Agency>
+    <link url="Dashboard.aspx" title="Dashboard"></link>
+    <link url="Hospital.aspx" title="Hospital"></link>
+    <link url="Doctor.aspx" title="Doctors"></link>
+    <link  url="AgeFilter.aspx" title="Age Filter"></link>
+    <link url="Pharmacist.aspx" title="Gaviscon Representative "></link>
+     <link url="UserDetails.aspx" title="Patient Details"></link>
+  </Agency>
+  <Admin>
+    <link url="Dashboard.aspx" title="Dashboard"></link>
+    <link url="Hospital.aspx" title="Hospital"></link>
+    <link url="Doctor.aspx" title="Doctors"></link>
+    <link  url="AgeFilter.aspx" title="Age Filter"></link>
+    <link url="Pharmacist.aspx" title="Gaviscon Representative "></link>
+     <link url="UserDetails.aspx" title="Patient Details"></link>
+  </Admin>
+  <SuperAdmin>
+    <link url="Dashboard.aspx" title="Dashboard"></link>
+    <link url="Hospital.aspx" title="Hospital"></link>
+    <link url="Doctor.aspx" title="Doctors"></link>
+    <link url="Pharmacist.aspx" title="Gaviscon Representative "></link>
+    <link url="UserDetails.aspx" title="Patient Details"></link>
+    <link url="Users.aspx" title="Users"></link>
+    <link  url="UserRoles.aspx" title="User Roles"></link>
+    <link  url="AgeFilter.aspx" title="Age Filter"></link>
+  </SuperAdmin>
+  <Doctor>
+    <link url="Dashboard.aspx" title="Dashboard"></link>
+  </Doctor>
+  <medrep>
+    <link url="Dashboard.aspx" title="Dashboard"></link>
+  </medrep>
+</MainMenu>
